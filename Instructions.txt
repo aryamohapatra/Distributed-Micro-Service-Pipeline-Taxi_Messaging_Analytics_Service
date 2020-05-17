@@ -1,4 +1,9 @@
 1. Sort the taxi trip data and save in the root folder
+TLC URL: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+Dataset URL: https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2018-01.csv
+Taxi Zone Lookup Table: https://s3.amazonaws.com/nyc-tlc/misc/taxi+_zone_lookup.csv
+Yellow Trip Data Dictionary:
+https://www1.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 2. Ensure location lookup and crash data also in the root folder
 3. Ensure ActiveMQ is up and running
 4. Run the python programs in the following order,
