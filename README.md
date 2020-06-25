@@ -16,13 +16,13 @@ https://www1.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yello
 2. Ensure location lookup and crash data also in the root folder
 3. Ensure ActiveMQ is up and running
 4. Run the python programs in the following order,
-	a) trip_freq_count
-	b) trip_BusiestLoc_finder
-	c) trip_preprocess
-	d) trip_stream
-	e) accident_stream
-	f) accident_preprocess
-	g) accident_count
-	h) analytics
-	i) daily_analytics
+	* trip_freq_count
+	* trip_BusiestLoc_finder
+	* trip_preprocess
+	* trip_stream
+	* accident_stream
+	* accident_preprocess
+	* accident_count
+	* analytics
+	* daily_analytics
 
